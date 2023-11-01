@@ -15,6 +15,7 @@ pip install -r requirements.txt
 pip install .
 pip install ./SupContrast
 ```
+The `SupContrast` module is adapted from https://github.com/HobbitLong/SupContrast.
 
 ## Datasets
 Note: Images are not included in this repository. Please refer to the links below to download the images.
