@@ -54,12 +54,12 @@ python main_finetune.py \
 ## Citation
 
 ```
-@InProceedings{CLRC_2024_WACV,
+@InProceedings{Yap_2024_WACV,
     author    = {Yap, Boon Peng and Ng, Beng Koon},
-    title     = {Group-wise Contrastive Bottleneck for Weakly-Supervised Visual Representation Learning},
-    booktitle = {To appear in Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    title     = {Group-Wise Contrastive Bottleneck for Weakly-Supervised Visual Representation Learning},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
     month     = {January},
     year      = {2024},
-    pages     = {???-???}
+    pages     = {2246-2255}
 }
 ```
