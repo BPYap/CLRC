@@ -1,7 +1,7 @@
 # Group-wise Contrastive Learning
 
-This is the official code repository for the WACV 2024 paper "Group-wise Contrastive Bottleneck for Weakly-Supervised
-Visual Representation Learning".
+This is the official code repository for the WACV 2024 paper "[Group-wise Contrastive Bottleneck for Weakly-Supervised
+Visual Representation Learning](https://openaccess.thecvf.com/content/WACV2024/papers/Yap_Group-Wise_Contrastive_Bottleneck_for_Weakly-Supervised_Visual_Representation_Learning_WACV_2024_paper.pdf)".
 
 ## Environment Setup
 
